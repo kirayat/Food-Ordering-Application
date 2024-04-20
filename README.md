@@ -16,7 +16,7 @@
 <style>
 	body {
 		background-image:url("https://st2.depositphotos.com/1891407/10272/v/950/depositphotos_102723300-stock-illustration-cooking-kitchen-food-background.jpg");
-		background-color: #cccccc;
+		background-color: #ccc;
 		background-position: center;
 		background-repeat: repeat;
 		background-size: cover;
